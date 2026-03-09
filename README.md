@@ -1,12 +1,138 @@
-## Hello I am Edith Chiu.
+# Hi, I'm Edith 👋
 
-I am an adaptable and driven data analytics professional with newly developed technical skills in Python, SQL, Power BI, and data visualisation, gained through the Generation UK Data Analytics Programme. During the course, I built hands-on experience cleaning, analysing, and interpreting large datasets, and transforming insights into clear, actionable findings that support decision-making.
+Aspiring **Data Analyst** based in the UK with experience in **data analysis, dashboard development, and data visualisation**.  
+I recently completed the **Generation Data Analytics Programme** and built multiple projects using SQL, Python, Power BI, and Tableau.
 
-With a background spanning transport operations, customer-facing environments, hospitality, HR support, and marketing, I bring a strong foundation of transferable skills essential to data work—precision, problem-solving, operational accuracy, workflow optimisation, and the ability to stay calm and analytical under pressure. My previous roles strengthened my attention to detail, performance tracking, frontline communication, and ability to work efficiently in fast-paced, high-volume environments.
+I enjoy turning raw data into meaningful insights that support business decisions.
 
-I am a quick learner who enjoys working with complex information and continuously improving my skills. I’m now eager to apply my analytical mindset, technical capabilities, and dedication to high standards to a forward-thinking organisation where I can contribute meaningful insights and grow as a Data Analyst.
+Currently seeking **Junior Data Analyst / Data Analyst opportunities**.
 
-<!--
-**edith-chiu/edith-chiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
+## Data Analytics Skills
 
+**Data Analysis & Querying**
+- SQL
+- Python (Pandas, NumPy)
+
+**Data Visualisation**
+- Power BI
+- Tableau
+- Matplotlib
+
+**Data Tools**
+- Excel
+- SQL Server Management Studio (SSMS)
+- Jupyter Notebook
+
+**Core Skills**
+- Data cleaning & transformation
+- Exploratory data analysis (EDA)
+- Dashboard development
+- KPI analysis
+- Trend analysis
+
+---
+
+## Featured Projects
+
+### Netflix Content Analysis (Power BI)
+Interactive dashboard analysing streaming platform content trends, genre distribution, and release patterns.
+
+Power BI dashboard includes:
+
+- Data modelling
+- KPI metrics
+- Trend analysis
+- Interactive filters
+
+Project:
+https://github.com/edith-chiu/streaming-platform-analysis
+
+---
+
+### Olist eCommerce Delivery Performance Analysis (Power BI)
+
+Analysis of delivery performance and logistics efficiency using the Brazilian Olist eCommerce dataset.
+
+Dashboard focuses on:
+
+- Actual vs estimated delivery time
+- Dispatch performance by category
+- Late delivery rate KPI
+- Delivery performance trends
+
+Project:
+https://github.com/edith-chiu/PowerBI_FinalProject
+
+---
+
+### AdventureWorks Sales Analysis (SQL & Python)
+
+Exploratory data analysis of sales performance using SQL and Python.
+
+Key tasks:
+
+- SQL joins and aggregations
+- Data extraction from relational database
+- Python analysis using Pandas
+- Data visualisation
+
+Project:
+https://github.com/edith-chiu/SQL-and-Python-Project
+
+---
+
+### Retail Store Sales Dashboard (Power BI)
+
+Power BI dashboard analysing retail store sales performance.
+
+Dashboard insights include:
+
+- Total revenue KPI
+- Sales trends
+- Top performing products
+- Store performance comparison
+
+Project:
+https://github.com/edith-chiu/Retail-Store-Sales-PowerBI
+
+---
+
+### Tableau Dashboards
+
+**Superstore Sales Dashboard**
+https://github.com/edith-chiu/Superstore-data-analysis
+
+**BMW Sales Analysis Dashboard**
+https://github.com/edith-chiu/BMW-sales-analysis
+
+---
+
+## Python Data Analysis
+
+Population analysis project using Python and Pandas to explore population trends across Europe and Africa.
+
+Includes:
+
+- Data cleaning
+- Exploratory data analysis
+- Data visualisation using Matplotlib
+
+Project:
+https://github.com/edith-chiu/Python-Technical-Delivery-Project
+
+---
+
+## Currently Learning
+
+- Advanced SQL for analytics
+- Data storytelling
+- Improving dashboard design
+- Advanced Excel for data analysis
+
+---
+
+## Connect with me
+
+LinkedIn: *(linkedin.com/in/edith-chiu)*
