@@ -21,7 +21,7 @@ Currently seeking **Junior Data Analyst / Data Analyst opportunities**.
 - Matplotlib
 
 **Data Tools**
-- Excel
+- Excel (Pivot Tables, Data Cleaning, Basic Analysis)
 - SQL Server Management Studio (SSMS)
 - Jupyter Notebook
 
@@ -127,9 +127,8 @@ https://github.com/edith-chiu/Python-Technical-Delivery-Project
 ## Currently Learning
 
 - Advanced SQL for analytics
-- Data storytelling
-- Improving dashboard design
-- Advanced Excel for data analysis
+- Improving dashboard design and data storytelling
+- Building more data analysis portfolio projects
 
 ---
 
