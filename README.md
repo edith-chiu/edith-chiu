@@ -135,4 +135,4 @@ https://github.com/edith-chiu/Python-Technical-Delivery-Project
 
 ## Connect with me
 
-LinkedIn: *(linkedin.com/in/edith-chiu)*
+LinkedIn: *(https://www.linkedin.com/in/edith-chiu)*
