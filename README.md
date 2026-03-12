@@ -36,6 +36,22 @@ Currently seeking **Junior Data Analyst / Data Analyst opportunities**.
 
 ## Featured Projects
 
+### UK Rail Performance Analysis (Power BI)
+Interactive dashboard analysing rail performance trends, delay cause, and forecast.
+
+Power BI dashboard includes:
+
+- Data modelling
+- KPI metrics
+- Top delay causes across the rail network
+- Trend analysis of cancellation rates over time with forecast projection
+- Interactive filters
+
+Project:
+https://github.com/edith-chiu/UK-Rail-Passenger-Performance-Analysis
+
+---
+
 ### Netflix Content Analysis (Power BI)
 Interactive dashboard analysing streaming platform content trends, genre distribution, and release patterns.
 
